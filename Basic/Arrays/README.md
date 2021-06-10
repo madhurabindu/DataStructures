@@ -9,6 +9,7 @@ Algorithms that process data stored as arrays will typically need to visit syste
 appropriate operations on them.
 
 Refer [this article](https://medium.com/codeconvention/learn-array-data-structure-2fa01edd21c2) for operations of Arrays and their time complexity
+
 ![Time Complexity](./operations.png)
 
 ## To consider
