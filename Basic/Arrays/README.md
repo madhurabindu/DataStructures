@@ -34,12 +34,15 @@ Refer [this article](https://medium.com/codeconvention/learn-array-data-structur
 - SLow inserts / slow deletes
 - Linear Complexity for insertion and deletion
 - The Array has a fixed size (not talking about Dynamic Array and Python and Javascript like languages)
+- In efficient memory allocation / utiization
 
 ### Alternate
 -  Linked List: 
-    - Better use of memory
     - Faster insertion and deletion
+    - Faster memory allocation / utilization
+    - Additional memory needed for storing node information
     - Slower traversal and search
+    
 -  Dynamic arrays :If the number of items to be added to the dynamic array exceeds the current limit:
     - Create a copy of the array, twice the size
     - Copy items from original array into new array
