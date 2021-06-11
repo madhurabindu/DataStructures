@@ -16,6 +16,10 @@ Refer [this article](https://medium.com/codeconvention/learn-array-data-structur
 
 ![Time Complexity](./operations.png)
 
+![Time Complexity](./arrayalgos.png)
+
+Credit : https://www.bigocheatsheet.com/
+
 ## When to Use
 - Iteration and accessing individual items is performed more frequently than insertion or deletion
 - Insertion and deletion especially from middle of or beginning of an array need to shift all elements following that index and hence is a costly operation
