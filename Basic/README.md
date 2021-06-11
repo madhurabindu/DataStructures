@@ -1,6 +1,8 @@
-# Linked Lists Data Structure
+# Basic Data Structure
 
-## Overview
+## Difference between Arrays and Linked Lists
+
+![diff](./diff_array_list.png)
 
 ## Resources
  
