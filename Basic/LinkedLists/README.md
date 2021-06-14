@@ -38,9 +38,15 @@ Linked lists offer some important advantages over other linear data structures. 
 
 ## Alternates
 
-Doubly Linked List
+- Doubly Linked List: Double linked list is a sequence of elements in which every element has links to its previous element and next element in the sequence.
+  - Can be traversed in both direction
+  - Insertion at beginning or end takes same time Jumping from head to tail or from tail to head is done in constant time O(1)
+  - Deletion is faster since now we do not need to traverse the list to find the prev node, 
+  - Takes more memory for holding 2 pointers
 
-Circular Linked List
+- Circular Linked List: is a linked list where all nodes are connected to form a circle. There is no NULL at the end. A circular linked list can be a singly circular linked list or doubly circular linked list.
+  - Useful in traversing especially if its doubly linked curcular list
+  - Additional memory
 
 
 ## Resources
