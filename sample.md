@@ -1,4 +1,4 @@
-# Array Data Structure
+# Data Structure
 
 ## Overview
 
