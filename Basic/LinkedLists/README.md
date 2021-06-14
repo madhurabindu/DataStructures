@@ -5,13 +5,29 @@ Linked lists are linear data structures that hold data in individual objects cal
 Linked lists are often used because of their efficient insertion and deletion. They can be used to implement stacks, queues, and other abstract data types.
 
 
-## Time and space complexity
+## Operations
 
-## Pros
+### Time and space complexity
+
+![Time Complexity](./operations.png)
+
+![Time Complexity](./abc.png)
+
+
+## When to use
+
+- Use Array for fixed size data or data that needs more search / traversal / indexing than insertion deletion, need random access to a particular element
+- Use Dynamic Arrays (Array List), when you want the best of Arrays and do not want to have restriction on size. Note the allocation will double everytime the border of initial allocation is passed. 
+- Use Lists for large number of elements, size of list is big or is changing, adding and removing operation is performed more frequently than traversal or search 
+
+
+## Pros and Cons
+
+### Pros
 
 Linked lists offer some important advantages over other linear data structures. Unlike arrays, they are a dynamic data structure, resizable at run-time. Also, the insertion and deletion operations are efficient and easily implemented.
 
-## Cons
+### Cons
 
 However, linked lists do have some drawbacks. Unlike arrays, linked lists aren't fast at finding the n^\text{th}n 
 th
@@ -28,10 +44,6 @@ Doubly Linked List
 
 Circular Linked List
 
-## When to use What
-- Use Array for fixed size data or data that needs more search / traversal / indexing than insertion deletion, need random access to a particular element
-- Use Dynamic Arrays (Array List), when you want the best of Arrays and do not want to have restriction on size. Note the allocation will double everytime the border of initial allocation is passed. 
-- Use Lists for large number of elements, size of list is big or is changing, adding and removing operation is performed more frequently than traversal or search 
 
 ## Resources
 - https://brilliant.org/wiki/linked-lists/
