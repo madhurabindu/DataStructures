@@ -15,3 +15,5 @@ https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-st
 https://www.bigocheatsheet.com/
 
 https://en.wikibooks.org/wiki/Data_Structures
+
+https://xlinux.nist.gov/dads/
