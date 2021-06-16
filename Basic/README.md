@@ -1,6 +1,5 @@
 # Basic Data Structure
 
-<<<<<<< HEAD
 ## Difference between Arrays and Linked Lists
 
 ![diff](./diff_array_list.png)
