@@ -1,9 +1,5 @@
 # Basic Data Structure
 
-## Difference between Arrays and Linked Lists
-
-![diff](./diff_array_list.png)
-=======
 ## Details of Hashing Techniques
 http://www.bowdoin.edu/~ltoma/teaching/cs210/fall09/Slides/Maps.pdf
 
